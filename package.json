@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "a living, breathing resume app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harkshark/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Lauren Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harkshark/resume/issues"
+  },
+  "homepage": "https://github.com/harkshark/resume#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
